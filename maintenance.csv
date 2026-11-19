@@ -1,0 +1,101 @@
+maintenance_id,aircraft_model,airline_id,airport_id,maintenance_date,status
+1,Embraer 190,15,2,2025-03-31,Completed
+2,Embraer 190,3,12,2025-03-21,In Progress
+3,Airbus A330,1,6,2025-03-31,In Progress
+4,Airbus A320,28,1,2024-05-14,Scheduled
+5,Airbus A330,21,11,2024-12-05,Scheduled
+6,Airbus A330,12,3,2024-11-25,In Progress
+7,Boeing 777,10,1,2024-10-21,Completed
+8,Airbus A320,27,5,2024-11-29,Scheduled
+9,Boeing 737,24,12,2024-09-07,In Progress
+10,Embraer 190,22,7,2025-01-10,Scheduled
+11,Embraer 190,17,9,2024-12-22,In Progress
+12,Airbus A330,15,9,2024-12-01,In Progress
+13,Bombardier CRJ900,12,5,2025-03-21,Completed
+14,Airbus A320,22,13,2024-08-30,Scheduled
+15,Boeing 777,17,9,2024-08-23,Scheduled
+16,Airbus A330,21,13,2025-01-30,In Progress
+17,Embraer 190,5,14,2025-02-21,In Progress
+18,Airbus A320,7,13,2024-10-05,Completed
+19,Airbus A330,15,1,2024-12-31,In Progress
+20,Airbus A330,3,12,2025-03-19,Completed
+21,Bombardier CRJ900,7,13,2024-07-22,Scheduled
+22,Airbus A330,10,7,2024-04-27,Scheduled
+23,Airbus A330,11,10,2024-10-05,Completed
+24,Airbus A320,11,7,2024-07-20,Scheduled
+25,Bombardier CRJ900,17,3,2025-02-17,Scheduled
+26,Airbus A330,16,4,2024-11-07,Scheduled
+27,Airbus A330,12,9,2024-04-20,In Progress
+28,Boeing 777,26,2,2024-11-19,In Progress
+29,Airbus A330,23,10,2024-11-04,Scheduled
+30,Embraer 190,21,6,2024-11-22,In Progress
+31,Embraer 190,26,5,2024-12-16,Completed
+32,Airbus A320,16,7,2024-09-16,In Progress
+33,Airbus A320,22,13,2025-02-07,In Progress
+34,Airbus A330,20,7,2025-04-02,Scheduled
+35,Embraer 190,6,9,2025-02-20,Scheduled
+36,Airbus A320,30,8,2024-10-20,Scheduled
+37,Airbus A320,23,10,2024-10-25,Completed
+38,Boeing 777,13,13,2025-01-09,In Progress
+39,Boeing 777,21,15,2024-07-03,Scheduled
+40,Boeing 737,18,9,2024-06-22,In Progress
+41,Bombardier CRJ900,28,7,2024-09-14,Scheduled
+42,Airbus A320,3,11,2025-03-16,In Progress
+43,Boeing 737,25,6,2025-02-28,Scheduled
+44,Boeing 737,9,6,2024-09-08,In Progress
+45,Bombardier CRJ900,16,14,2024-07-21,Scheduled
+46,Bombardier CRJ900,11,14,2025-01-09,Scheduled
+47,Airbus A330,15,8,2024-09-12,Completed
+48,Airbus A320,9,9,2024-09-03,In Progress
+49,Boeing 777,6,6,2024-10-23,Completed
+50,Boeing 737,13,5,2024-09-25,In Progress
+51,Airbus A320,25,6,2024-09-13,In Progress
+52,Bombardier CRJ900,29,2,2024-06-02,Scheduled
+53,Boeing 737,24,13,2025-03-09,Scheduled
+54,Bombardier CRJ900,5,12,2024-10-28,Scheduled
+55,Airbus A330,14,8,2024-05-15,Completed
+56,Airbus A330,22,9,2024-05-11,Scheduled
+57,Embraer 190,27,3,2024-07-16,Scheduled
+58,Boeing 737,27,3,2025-03-14,In Progress
+59,Airbus A320,30,14,2024-08-19,In Progress
+60,Airbus A330,8,4,2024-06-18,Completed
+61,Bombardier CRJ900,1,4,2025-01-17,Scheduled
+62,Airbus A320,7,3,2025-04-06,Scheduled
+63,Embraer 190,28,4,2024-12-20,In Progress
+64,Airbus A330,11,7,2024-10-26,In Progress
+65,Airbus A320,14,13,2024-09-09,Completed
+66,Embraer 190,17,8,2024-10-24,Scheduled
+67,Boeing 737,11,12,2024-12-26,In Progress
+68,Boeing 777,1,10,2024-05-04,Completed
+69,Bombardier CRJ900,9,7,2025-01-03,In Progress
+70,Boeing 777,29,3,2024-10-07,Completed
+71,Embraer 190,9,7,2024-12-10,In Progress
+72,Bombardier CRJ900,16,13,2024-10-23,In Progress
+73,Boeing 777,17,1,2025-03-16,Scheduled
+74,Boeing 777,1,4,2024-12-30,Scheduled
+75,Airbus A330,29,6,2024-06-22,Completed
+76,Boeing 737,4,2,2024-06-27,In Progress
+77,Airbus A320,13,6,2024-04-28,Scheduled
+78,Bombardier CRJ900,22,8,2024-06-28,In Progress
+79,Bombardier CRJ900,4,7,2025-03-14,In Progress
+80,Boeing 737,13,4,2024-09-30,In Progress
+81,Airbus A330,20,4,2024-10-01,Completed
+82,Airbus A330,9,12,2025-03-06,Completed
+83,Embraer 190,14,7,2025-01-12,Completed
+84,Embraer 190,13,14,2024-06-15,Completed
+85,Boeing 737,18,3,2024-09-24,Scheduled
+86,Airbus A330,6,1,2024-05-27,Scheduled
+87,Airbus A330,28,11,2024-04-19,In Progress
+88,Boeing 737,1,11,2025-03-16,In Progress
+89,Airbus A330,9,5,2024-12-17,In Progress
+90,Airbus A320,16,13,2024-07-20,Completed
+91,Airbus A320,28,1,2025-03-29,In Progress
+92,Boeing 737,16,9,2024-04-17,Scheduled
+93,Airbus A320,10,15,2025-01-22,Scheduled
+94,Boeing 737,1,10,2024-09-11,In Progress
+95,Airbus A320,28,9,2024-06-29,Scheduled
+96,Embraer 190,11,4,2024-08-26,Completed
+97,Embraer 190,6,2,2025-03-24,In Progress
+98,Airbus A320,28,3,2025-03-12,Scheduled
+99,Bombardier CRJ900,19,3,2024-09-05,In Progress
+100,Boeing 777,21,12,2024-06-13,Completed

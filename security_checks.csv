@@ -1,0 +1,101 @@
+check_id,passenger_id,airport_id,check_time,status
+1,1,2,1/7/2025,Passed
+2,2,3,3/3/2025,Additional Screening
+3,3,1,1/5/2025,Passed
+4,4,10,1/10/2025,Denied
+5,5,10,1/12/2025,Additional Screening
+6,6,2,3/31/2025,Additional Screening
+7,7,10,1/18/2025,Additional Screening
+8,8,5,2/5/2025,Additional Screening
+9,9,3,3/29/2025,Additional Screening
+10,10,14,1/14/2025,Additional Screening
+11,11,15,2/19/2025,Additional Screening
+12,12,6,1/1/2025,Passed
+13,13,8,1/8/2025,Denied
+14,14,7,3/9/2025,Additional Screening
+15,15,3,3/15/2025,Denied
+16,16,3,1/21/2025,Denied
+17,17,14,4/1/2025,Denied
+18,18,11,1/29/2025,Denied
+19,19,14,1/19/2025,Passed
+20,20,1,1/9/2025,Passed
+21,21,14,1/19/2025,Additional Screening
+22,22,15,2/24/2025,Additional Screening
+23,23,13,1/21/2025,Passed
+24,24,7,2/12/2025,Denied
+25,25,9,2/25/2025,Additional Screening
+26,26,10,1/15/2025,Denied
+27,27,10,1/15/2025,Denied
+28,28,14,3/29/2025,Passed
+29,29,11,3/11/2025,Additional Screening
+30,30,7,3/2/2025,Denied
+31,31,13,3/13/2025,Passed
+32,32,14,2/7/2025,Denied
+33,33,15,1/10/2025,Denied
+34,34,7,2/1/2025,Passed
+35,35,2,1/13/2025,Denied
+36,36,7,3/30/2025,Passed
+37,37,14,2/10/2025,Passed
+38,38,4,4/3/2025,Passed
+39,39,13,4/1/2025,Denied
+40,40,7,2/6/2025,Denied
+41,41,6,3/2/2025,Passed
+42,42,14,2/7/2025,Passed
+43,43,9,2/23/2025,Passed
+44,44,14,3/18/2025,Passed
+45,45,12,1/17/2025,Denied
+46,46,3,1/16/2025,Passed
+47,47,2,1/13/2025,Denied
+48,48,3,3/25/2025,Denied
+49,49,9,2/24/2025,Additional Screening
+50,50,2,2/26/2025,Passed
+51,51,8,2/22/2025,Passed
+52,52,2,1/11/2025,Passed
+53,53,12,3/5/2025,Denied
+54,54,4,2/27/2025,Passed
+55,55,7,1/25/2025,Passed
+56,56,14,2/8/2025,Additional Screening
+57,57,1,2/3/2025,Denied
+58,58,4,3/30/2025,Passed
+59,59,9,3/28/2025,Denied
+60,60,15,3/11/2025,Additional Screening
+61,61,8,1/9/2025,Denied
+62,62,7,1/25/2025,Additional Screening
+63,63,4,2/3/2025,Additional Screening
+64,64,13,1/3/2025,Denied
+65,65,8,2/24/2025,Passed
+66,66,15,1/15/2025,Passed
+67,67,1,1/6/2025,Denied
+68,68,6,3/31/2025,Additional Screening
+69,69,13,2/10/2025,Additional Screening
+70,70,12,1/10/2025,Additional Screening
+71,71,4,3/22/2025,Denied
+72,72,9,3/5/2025,Passed
+73,73,10,3/10/2025,Additional Screening
+74,74,4,2/5/2025,Additional Screening
+75,75,9,2/27/2025,Denied
+76,76,14,3/30/2025,Additional Screening
+77,77,15,1/14/2025,Denied
+78,78,7,3/11/2025,Additional Screening
+79,79,5,2/12/2025,Passed
+80,80,5,3/8/2025,Additional Screening
+81,81,13,3/17/2025,Denied
+82,82,4,1/26/2025,Additional Screening
+83,83,10,3/15/2025,Passed
+84,84,5,1/7/2025,Passed
+85,85,9,2/12/2025,Passed
+86,86,1,1/28/2025,Passed
+87,87,14,1/16/2025,Additional Screening
+88,88,11,2/14/2025,Additional Screening
+89,89,14,2/7/2025,Denied
+90,90,2,1/30/2025,Additional Screening
+91,91,11,3/13/2025,Denied
+92,92,4,2/26/2025,Additional Screening
+93,93,5,3/21/2025,Denied
+94,94,4,2/24/2025,Passed
+95,95,9,3/20/2025,Additional Screening
+96,96,7,1/22/2025,Passed
+97,97,11,1/13/2025,Passed
+98,98,12,3/30/2025,Passed
+99,99,11,1/27/2025,Denied
+100,100,6,2/12/2025,Denied

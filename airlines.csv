@@ -1,0 +1,61 @@
+airline_id,airline_name,iata_code,country
+1,Air Astana,KC,Kazakhstan
+2,Qatar Airways,QR,Qatar
+3,Emirates,EK,UAE
+4,Lufthansa,LH,Germany
+5,Air France,AF,France
+6,KLM,KL,Netherlands
+7,Delta Air Lines,DL,USA
+8,United Airlines,UA,USA
+9,Turkish Airlines,TK,Turkey
+10,Qantas,QF,Australia
+11,Japan Airlines,JL,Japan
+12,Korean Air,KE,South Korea
+13,Air Canada,AC,Canada
+14,Aeroflot,SU,Russia
+15,Singapore Airlines,SQ,Singapore
+16,British Airways,BA,UK
+17,Etihad Airways,EY,UAE
+18,Swiss International Air Lines,LX,Switzerland
+19,Austrian Airlines,OS,Austria
+20,Finnair,AY,Finland
+21,China Eastern Airlines,MU,China
+22,China Southern Airlines,CZ,China
+23,Thai Airways,TG,Thailand
+24,Vietnam Airlines,VN,Vietnam
+25,Garuda Indonesia,GA,Indonesia
+26,EgyptAir,MS,Egypt
+27,Saudia,SV,Saudi Arabia
+28,ANA (All Nippon Airways),NH,Japan
+29,Iberia,IB,Spain
+30,Alitalia,AZ,Italy
+1,Air Astana,KC,Kazakhstan
+2,Qatar Airways,QR,Qatar
+3,Emirates,EK,UAE
+4,Lufthansa,LH,Germany
+5,Air France,AF,France
+6,KLM,KL,Netherlands
+7,Delta Air Lines,DL,USA
+8,United Airlines,UA,USA
+9,Turkish Airlines,TK,Turkey
+10,Qantas,QF,Australia
+11,Japan Airlines,JL,Japan
+12,Korean Air,KE,South Korea
+13,Air Canada,AC,Canada
+14,Aeroflot,SU,Russia
+15,Singapore Airlines,SQ,Singapore
+16,British Airways,BA,UK
+17,Etihad Airways,EY,UAE
+18,Swiss International Air Lines,LX,Switzerland
+19,Austrian Airlines,OS,Austria
+20,Finnair,AY,Finland
+21,China Eastern Airlines,MU,China
+22,China Southern Airlines,CZ,China
+23,Thai Airways,TG,Thailand
+24,Vietnam Airlines,VN,Vietnam
+25,Garuda Indonesia,GA,Indonesia
+26,EgyptAir,MS,Egypt
+27,Saudia,SV,Saudi Arabia
+28,ANA (All Nippon Airways),NH,Japan
+29,Iberia,IB,Spain
+30,Alitalia,AZ,Italy

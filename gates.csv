@@ -1,0 +1,101 @@
+gate_id,airport_id,gate_number,status
+1,4,B5,Open
+2,15,A4,Under Maintenance
+3,3,D5,Under Maintenance
+4,2,B5,Under Maintenance
+5,11,C4,Under Maintenance
+6,15,A5,Closed
+7,6,D1,Open
+8,9,A2,Under Maintenance
+9,3,C1,Closed
+10,6,A3,Closed
+11,4,B5,Open
+12,15,C2,Under Maintenance
+13,14,B2,Open
+14,2,A3,Open
+15,10,B3,Under Maintenance
+16,4,B5,Under Maintenance
+17,10,D3,Closed
+18,13,C4,Open
+19,4,A1,Under Maintenance
+20,14,D2,Under Maintenance
+21,6,B4,Under Maintenance
+22,15,A3,Open
+23,2,D5,Closed
+24,15,A4,Closed
+25,9,D4,Open
+26,6,B2,Under Maintenance
+27,8,D2,Closed
+28,6,C3,Under Maintenance
+29,7,D5,Closed
+30,2,C2,Open
+31,2,D5,Open
+32,9,A3,Under Maintenance
+33,8,D2,Open
+34,3,D4,Closed
+35,8,A5,Open
+36,12,C5,Closed
+37,2,B5,Closed
+38,12,B3,Under Maintenance
+39,9,A2,Open
+40,13,C3,Under Maintenance
+41,5,A5,Open
+42,10,A4,Under Maintenance
+43,15,D4,Under Maintenance
+44,9,B5,Open
+45,1,B4,Under Maintenance
+46,7,B5,Open
+47,9,B5,Open
+48,11,D3,Closed
+49,8,C2,Closed
+50,6,D2,Under Maintenance
+51,13,D1,Under Maintenance
+52,15,D1,Closed
+53,3,A1,Closed
+54,6,A3,Closed
+55,8,C4,Open
+56,6,C5,Closed
+57,6,D3,Closed
+58,8,C1,Closed
+59,6,A3,Closed
+60,5,C2,Open
+61,7,A1,Open
+62,9,D2,Closed
+63,9,A3,Under Maintenance
+64,12,B1,Closed
+65,7,D2,Closed
+66,3,C1,Closed
+67,7,C4,Closed
+68,8,D3,Closed
+69,13,D5,Closed
+70,4,C4,Under Maintenance
+71,6,A4,Under Maintenance
+72,5,C5,Open
+73,3,B2,Under Maintenance
+74,12,D5,Closed
+75,6,A3,Under Maintenance
+76,3,C5,Under Maintenance
+77,6,A5,Under Maintenance
+78,6,D4,Open
+79,8,D3,Open
+80,11,D5,Under Maintenance
+81,5,D1,Closed
+82,7,C3,Closed
+83,11,B4,Closed
+84,9,C1,Open
+85,9,B1,Closed
+86,6,C2,Closed
+87,12,D3,Under Maintenance
+88,1,C4,Under Maintenance
+89,3,A4,Closed
+90,5,A1,Closed
+91,5,C3,Open
+92,4,D5,Open
+93,7,B3,Open
+94,3,D3,Closed
+95,8,C3,Open
+96,5,A4,Under Maintenance
+97,5,A2,Under Maintenance
+98,4,C1,Under Maintenance
+99,14,B1,Under Maintenance
+100,9,A4,Open

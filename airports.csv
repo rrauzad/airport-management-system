@@ -1,0 +1,16 @@
+airport_id,airport_name,iata_code,city,country,timezone
+1,Hartsfield–Jackson Atlanta International Airport,ATL,Atlanta,USA,America/New_York
+2,Almaty International Airport,ALA,Almaty,Kazakhstan,Asia/Almaty
+3,Los Angeles International Airport,LAX,Los Angeles,USA,America/Los_Angeles
+4,Dubai International Airport,DXB,Dubai,UAE,Asia/Dubai
+5,Tokyo Haneda Airport,HND,Tokyo,Japan,Asia/Tokyo
+6,Sheremetyevo International Airport,SVO,Moscow,Russia,Europe/Moscow
+7,John F. Kennedy International Airport,JFK,New York,USA,America/New_York
+8,Hong Kong International Airport,HKG,Hong Kong,China,Asia/Hong_Kong
+9,Charles de Gaulle Airport,CDG,Paris,France,Europe/Paris
+10,Frankfurt Airport,FRA,Frankfurt,Germany,Europe/Berlin
+11,Singapore Changi Airport,SIN,Singapore,Singapore,Asia/Singapore
+12,Incheon International Airport,ICN,Seoul,South Korea,Asia/Seoul
+13,Istanbul Airport,IST,Istanbul,Turkey,Europe/Istanbul
+14,Sydney Kingsford Smith Airport,SYD,Sydney,Australia,Australia/Sydney
+15,Toronto Pearson International Airport,YYZ,Toronto,Canada,America/Toronto

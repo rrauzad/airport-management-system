@@ -1,0 +1,101 @@
+baggage_id,passenger_id,flight_id,weight_kg,status
+1,22,82,30.2,Registered
+2,68,40,29.6,In Transit
+3,31,59,14.0,In Transit
+4,29,15,17.3,In Transit
+5,46,19,40.7,Delivered
+6,29,94,13.4,Registered
+7,74,84,26.3,Registered
+8,11,80,35.4,Registered
+9,19,66,15.2,Delivered
+10,1,65,29.2,Registered
+11,74,36,32.3,Registered
+12,77,46,41.8,In Transit
+13,35,14,20.7,In Transit
+14,98,50,24.4,Delivered
+15,93,70,35.5,Delivered
+16,27,33,20.0,Registered
+17,22,29,32.3,In Transit
+18,51,90,41.9,In Transit
+19,9,64,25.3,Registered
+20,45,19,27.4,Delivered
+21,42,13,9.6,Registered
+22,95,57,21.3,Registered
+23,32,20,15.0,Delivered
+24,17,59,30.7,In Transit
+25,10,35,28.0,Registered
+26,46,81,34.0,In Transit
+27,21,18,41.1,Delivered
+28,92,31,31.6,In Transit
+29,100,72,26.7,Registered
+30,57,45,19.4,In Transit
+31,5,60,48.4,Delivered
+32,68,52,41.3,In Transit
+33,34,99,9.3,Registered
+34,1,24,17.8,Delivered
+35,16,27,49.3,Delivered
+36,23,74,31.6,In Transit
+37,65,40,10.1,Delivered
+38,69,47,12.9,Registered
+39,92,42,36.8,Delivered
+40,54,70,7.2,In Transit
+41,47,16,32.3,Delivered
+42,4,6,33.3,Delivered
+43,1,28,9.9,Delivered
+44,33,92,17.6,Delivered
+45,1,65,5.3,Registered
+46,21,75,17.9,In Transit
+47,24,33,22.2,Registered
+48,79,25,21.7,Registered
+49,43,33,47.1,In Transit
+50,65,27,16.5,In Transit
+51,99,97,35.5,In Transit
+52,78,25,11.0,Registered
+53,4,29,34.3,Registered
+54,44,7,25.9,Registered
+55,65,79,14.3,In Transit
+56,54,50,7.9,Registered
+57,28,62,9.9,In Transit
+58,89,84,13.0,Registered
+59,20,27,28.5,In Transit
+60,91,31,12.1,Delivered
+61,13,57,33.3,In Transit
+62,52,82,46.8,Delivered
+63,20,93,26.7,Delivered
+64,89,43,22.7,Delivered
+65,39,20,23.8,Delivered
+66,60,29,36.2,Registered
+67,31,7,24.1,Registered
+68,30,36,14.2,Delivered
+69,73,21,47.0,In Transit
+70,65,33,49.5,Delivered
+71,50,83,5.6,Delivered
+72,20,81,33.3,Registered
+73,81,18,20.3,In Transit
+74,62,71,30.1,Delivered
+75,63,78,31.8,In Transit
+76,74,72,17.6,Delivered
+77,6,11,20.0,In Transit
+78,39,77,21.6,Delivered
+79,41,31,7.3,Registered
+80,67,95,41.4,In Transit
+81,62,22,41.8,In Transit
+82,98,73,41.3,Delivered
+83,6,19,20.9,Registered
+84,11,15,11.4,In Transit
+85,19,77,14.4,Delivered
+86,60,33,14.1,Registered
+87,4,71,34.6,Registered
+88,4,15,13.8,Delivered
+89,31,43,10.8,Delivered
+90,39,46,23.1,Delivered
+91,24,61,9.7,Registered
+92,72,29,22.7,In Transit
+93,59,42,45.0,Registered
+94,48,45,24.1,In Transit
+95,68,42,12.8,In Transit
+96,42,21,11.2,Registered
+97,12,35,48.5,Delivered
+98,59,77,38.5,Delivered
+99,47,2,5.3,In Transit
+100,18,42,27.3,Registered
